@@ -15,19 +15,14 @@ This repository showcases three data-driven projects using SQL, Excel, and Power
 - **🛍️ Vrinda Store Analysis (Excel)**  
   Sales and product performance analysis using Excel dashboard and pivots.
 
----
-
-## 📂 Files
-
-- `UCL database.sql`
-- `PowerBI/HR Attrition.pbix`
-- `Excel/Vrinda Store Data Analysis.xlsx`
+- **📊 JIRA Agile Project**  
+  HRMS Portal project managed in JIRA. Includes task exports and sprint planning.
 
 ---
 
 ## 🧠 Tools Used
 
-- SQL • Power BI • Excel
+- SQL • Excel • Power BI • JIRA
 
 ---
 
