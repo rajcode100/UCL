@@ -15,8 +15,8 @@ This repository showcases three data-driven projects using SQL, Excel, and Power
 - **🛍️ Vrinda Store Analysis (Excel)**  
   Sales and product performance analysis using Excel dashboard and pivots.
 
-- **📊 JIRA Agile Project**  
-  HRMS Portal project managed in JIRA. Includes task exports and sprint planning.
+- **📊 Agile Project (JIRA)**  
+  E-Commerce Shopping app project managed in JIRA. Includes task exports and sprint planning.
 
 ---
 
