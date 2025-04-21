@@ -1,4 +1,4 @@
-# 📊 Data Analysis Project Portfolio
+# 📊 Business/Data Analysis Project Portfolio
 
 This repository showcases three data-driven projects using SQL, Excel, and Power BI.
 
