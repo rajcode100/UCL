@@ -1,6 +1,6 @@
 # 📊 Business Analysis Project Portfolio
 
-This repository showcases three data-driven projects using SQL, Excel, and Power BI.
+This repository showcases three data-driven projects using SQL, Excel, Power BI and JIRA.
 
 ---
 
