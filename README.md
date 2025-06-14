@@ -1,9 +1,3 @@
-# 📊 Business Analysis Project Portfolio
-
-This repository showcases three data-driven projects using SQL, Excel, Power BI and JIRA.
-
----
-
 ## 🔍 Projects
 
 - **⚽ UCL Database (SQL)**  
